@@ -1,0 +1,10 @@
+tqdm
+scipy
+matplotlib
+sklearn
+scikit-learn
+seaborn
+pytorch_pretrained_vit
+ftfy
+regex
+git+https://github.com/openai/CLIP.git

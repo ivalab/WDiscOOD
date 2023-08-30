@@ -1,0 +1,27 @@
+# auto-generated files
+*.pyc
+.vscode
+*.swaps
+_cache*
+__pycache__
+*.swp
+.ipynb_checkpoints
+
+# experiment folders 
+*pretrained_models
+featCache
+figs
+logs
+*/pretrained_models/*
+debug*
+checkpoints
+train_save
+
+# unimportant files
+doodles
+experiments/run_debug.sh
+scripts.py
+
+# data folder
+data
+
